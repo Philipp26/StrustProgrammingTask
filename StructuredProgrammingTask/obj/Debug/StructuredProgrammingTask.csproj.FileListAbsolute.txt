@@ -1,0 +1,6 @@
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\bin\Debug\StructuredProgrammingTask.exe.config
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\bin\Debug\StructuredProgrammingTask.exe
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\bin\Debug\StructuredProgrammingTask.pdb
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\obj\Debug\StructuredProgrammingTask.csprojResolveAssemblyReference.cache
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\obj\Debug\StructuredProgrammingTask.exe
+E:\Учеба\StructuredProgrammingTask\StructuredProgrammingTask\obj\Debug\StructuredProgrammingTask.pdb
